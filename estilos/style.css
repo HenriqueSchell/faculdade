@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: titulo;
+    src: url(../fontes/Gemstone.ttf);
+}
+
+body,html{
+    width:600px;
+}
+
+header{
+    width:600px;
+}
